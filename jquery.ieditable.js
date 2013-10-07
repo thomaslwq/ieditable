@@ -387,10 +387,7 @@ A jquery editable plugin inspired jquery jeditable
         height     : 'auto',
         event      : 'click.editable',
         onblur     : 'cancel',
-        loadtype   : 'GET',
-        loadtext   : 'Loading...',
         placeholder: 'Click to edit',
-        loaddata   : {},
         submitdata : {},
         ajaxoptions: {}
 	};
