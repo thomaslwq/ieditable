@@ -1,10 +1,5 @@
 /*
-<<<<<<< HEAD
- * 
 a multichoice component,depend on select2.js
-=======
- * a multiselect plugin depend on select2.js
->>>>>>> a29096625d12989f83be96319a5a53e291c617be
  */
  $.ieditable.addInputType('multiselect',{
     element : function(settings, original) {
