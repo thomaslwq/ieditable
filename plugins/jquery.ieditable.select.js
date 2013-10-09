@@ -1,7 +1,6 @@
 /*
  * 
- * 自定义jeditable的可视化编辑器，依赖bootrap的可视化编辑器
- * http://www.bootcss.com/p/bootstrap-wysiwyg/
+a multichoice component,depend on select2.js
  */
  $.ieditable.addInputType('multiselect',{
     element : function(settings, original) {
